@@ -17,7 +17,7 @@ export default function Home() {
         {/* task */}
         <Task title="Read a book"></Task>
         {/* task */}
-        <Task Title="Take a shower"></Task>
+        <Task title="Take a shower"></Task>
         {/* task */}
         <Task title="Sleep"></Task>
       </div>
