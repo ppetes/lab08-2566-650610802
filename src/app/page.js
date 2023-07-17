@@ -25,7 +25,7 @@ export default function Home() {
       {/* //footer section */}
       <Footer
         year="2023"
-        fullName="Ratchapo Prangthong"
+        fullName="Ratchapon Prangthong"
         studentId="650610802"
       ></Footer>
     </div>
